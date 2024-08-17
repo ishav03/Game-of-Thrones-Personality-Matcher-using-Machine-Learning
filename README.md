@@ -1,1 +1,2 @@
-# Game-of-Thrones-Personality-Matcher-using-Machine-Learning
+# game-of-thrones-personality-matcher
+A t-sne implementation on GOT dataset
